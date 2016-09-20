@@ -1,0 +1,10 @@
+//commands for linux
+diretory commands (mkdir,cd)
+file commands
+copy commands(cp,scp)
+chmod commands
+grep
+ps
+tai,head
+vi editor,nano
+rm,mv[D[3~
