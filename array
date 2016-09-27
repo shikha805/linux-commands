@@ -1,0 +1,8 @@
+a=Array[10,20,30,40,50]
+x = 0
+  while x < 5
+    a[x] = (a[x] + 5)
+    x = x + 1
+  end
+  puts a;
+
